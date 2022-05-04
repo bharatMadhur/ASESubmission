@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5FA26A5C-0F11-48AA-9E79-7CDD147A081A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6555D8-FFA2-4411-8604-90D147439AC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYSESCREENERUITests/logintest_UITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "testsample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF6555D8-FFA2-4411-8604-90D147439AC6 - d2b3825bef8b3cd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYSESCREENERUITests.logintest_UITests.testsample() -&gt; ()"
+                  moduleName = "NYSESCREENERUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/roshanpolasa/Desktop/roshan/ASE/SwiftProject/NYSESCREENER/NYSESCREENERUITests/logintest_UITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "CF6555D8-FFA2-4411-8604-90D147439AC6 - d2b3825bef8b3cf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYSESCREENERUITests.logintest_UITests.testsample() -&gt; ()"
+                  moduleName = "NYSESCREENERUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/roshanpolasa/Desktop/roshan/ASE/SwiftProject/NYSESCREENER/NYSESCREENERUITests/logintest_UITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
